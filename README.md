@@ -1,7 +1,7 @@
-## Projeto Lista Telefônica  AngularJS (usando bootstrap)
+## AngularJS Phone Directory Project (using bootstrap)
 
-### Projeto didático Rofrigo Branas
-#### Construir Lista telefonica usando angularjs 
-> Status: Concluído 
+### Didactic project Rofrigo Branas
+#### Build Phonebook Using Angularjs
+> Status: Done 
 
 
